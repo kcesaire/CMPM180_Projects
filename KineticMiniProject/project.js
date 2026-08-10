@@ -1,4 +1,4 @@
-const words = ["today", "I", "went", "on", "a", "walk", "and", "I", "found", "you,", "I", "find", "you", "in", "every", "where", "I", "go.", "Your", "presence", "looms", "like", "a", "shadow", "and", "is", "persistant", "like", "weeds"];
+const words = ["today", "I", "went", "on", "a", "walk", "and", "I", "found", "you,", "I", "find", "you", "in", "every", "where", "I", "go.", "Your", "presence", "looms", "like", "a", "shadow", "and", "is", "persistant", "like", "weeds.", "The", "ghost", "of", "you", "haunts", "me."];
 let wordIndex = 0;
 let lastSpawnTime = 0;
 
